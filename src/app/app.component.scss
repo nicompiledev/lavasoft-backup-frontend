@@ -1,0 +1,14 @@
+@import "../styles/fonts.scss";
+@import "../styles/variables.scss";
+*{
+  h1 , h2  {
+    font-family: 'Montserrat', sans-serif;
+  }
+  h3 ,h4 , h5 , h6 {
+    font-family: 'Hind Guntur', sans-serif;
+  }
+  p , strong , span {
+    font-family: 'Hind Vadodara', sans-serif;
+  }
+}
+
